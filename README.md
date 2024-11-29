@@ -1,3 +1,1 @@
-hello 
-this seems empty 
-will probably remains so for a while 
+hello, this seems empty and will probably remain so for a while 
